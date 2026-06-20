@@ -54,4 +54,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+for download this app on your phone click this link 
+#https://l.facebook.com/l.php?u=https%3A%2F%2Fexpo.dev%2Faccounts%2Fashikatikur01%2Fprojects%2Fatikur-ashik%2Fbuilds%2F96d4f6cd-583e-406b-a447-f26d5ff7a91c%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExZHV5RjVreVRQQ1lkcTRYV3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7ujBQwsxuQHN1QhWerU4oEyxgzUK4xbR7Wc-0QBE17KjespE73T4_t4WluTw_aem_LGIqO8zrqwlq_Mygs8DN9Q&h=AUDx28G0SHaJGGLMheCJKlA0JLM_m4st5PJMNOFV90pYYRZKAW7u5xJpEbK7aLMwT0u81_yD7xKJxVhwBlKl9ndAdxrfRupPBK5Xt7HmPVB1Je-f1QM5ng-0MUpKPA
 # React_native_based_app
